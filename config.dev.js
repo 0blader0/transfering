@@ -18,7 +18,7 @@ module.exports = {
   "uploadAppPath": '/',
   // "maxFileSize": Math.pow(2, 20) * 15,
   // "maxBucketSize": Math.pow(2, 20) * 20,
-  "mailFrom": "PsiTransfer <psitransfer@psi.cx>"
+  "mailFrom": "BladeCloud <BladeCloud@exam.cx>"
   // "sslKeyFile": './tmp/cert.key',
   // "sslCertFile": './tmp/cert.pem',
 };
